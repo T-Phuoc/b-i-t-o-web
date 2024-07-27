@@ -28,14 +28,6 @@ a{
     cursor: pointer; /* đổi dạng con trỏ chuột */
 }
 
-::marker{
-    font-variant-numeric: tabular-nums;
-    text-transform: none;
-    text-indent: 0px;
-    text-align: start ;
-    text-align-last: start ;
-}
-
 #menu{
     width: 1520px;
     height: 62px;
